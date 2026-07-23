@@ -8,8 +8,9 @@ presence is our greatest gift, but if you wish to help us start our new chapter,
 ## 💰 Honeymoon & Cash Funds
 If you'd prefer to contribute to our honeymoon adventures or house downpayment, you can send funds directly via the
 links below:
-* [💸 Contribute via Venmo (Main Account)](https://venmo.com/u/Kamil-English)
-* [💳 Contribute via CashApp](https://cash.app/$KamilCe)
+  * [💸 Contribute via Venmo (Main Account)](https://venmo.com/u/Kamil-English)
+  * [💳 Contribute via CashApp](https://cash.app/$KamilCe)
+
 ---
 
 ## 🎁 Gift Registry
