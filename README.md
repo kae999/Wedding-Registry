@@ -18,9 +18,9 @@ If you'd prefer to contribute to our honeymoon adventures or house downpayment, 
 | Item | Store Link | Status |
 | :--- | :--- | :--- |
 | **KitchenAid Artisan Stand Mixer (Ice Blue)** | [View on Amazon](https://amazon.com) | 🟢 Available |
-| **Calphalon 10-Piece Cookware Set** | [View on Target](https://target.com) | 🔴 Claimed |
-| **Dyson V8 Cordless Vacuum** | [View on Best Buy](https://bestbuy.com) | 🟢 Available |
-| **Organic Cotton Sheet Set (Queen, White)** | [View on Bed Bath](https://bedbathandbeyond.com) | 🟢 Available |
+| **Le Creuset Flame Cookware Collection** | [View on Williams Sonoma]([https://target.com](https://www.williams-sonoma.com/products/le-creuset-flame-collection/)) | 🔴 Claimed |
+| **Bissell CrossWave Wet/Dry Vac** | [View on Bissell](https://www.bissell.com/en-us/product/crosswave-turbo-hard-floor-and-area-rug-wet-dry-vac-3888A.html]) | 🟢 Available |
+| **Quince Cotton Sheet Set (Queen, Olive)** | [View on Quince]([[https://bedbathandbeyond.com](https://www.quince.com/home/bamboo-sheets?color=olive](https://www.quince.com/home/organic-brushed-cotton-sheet-set?color=dusty-olive&size=queen))) | 🟢 Available |
 
 *Note: To avoid duplicate gifts, please let us know if you purchase an item so we can mark it as "Claimed"!*
 
