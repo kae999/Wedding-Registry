@@ -17,8 +17,8 @@ If you'd prefer to contribute to our honeymoon adventures or house downpayment, 
 
 | Item | Store Link | Status |
 | :--- | :--- | :--- |
-| **KitchenAid Artisan Stand Mixer (Ice Blue)** | [View on Amazon](https://amazon.com) | 🟢 Available |
-| **Le Creuset Flame Cookware Collection** | [View on Williams Sonoma]([https://target.com](https://www.williams-sonoma.com/products/le-creuset-flame-collection/)) | 🔴 Claimed |
+| **KitchenAid Artisan Stand Mixer (Ice Blue)** | [View on Amazon](https://amazon.com) | 🔴 Claimed |
+| **Le Creuset Flame Cookware Collection** | [View on Williams Sonoma]([https://target.com](https://www.williams-sonoma.com/products/le-creuset-flame-collection/) | 🟢 Available |
 | **Bissell CrossWave Wet/Dry Vac** | [View on Bissell](https://www.bissell.com/en-us/product/crosswave-turbo-hard-floor-and-area-rug-wet-dry-vac-3888A.html]) | 🟢 Available |
 | **Quince Cotton Sheet Set (Queen, Olive)** | [View on Quince]([[https://bedbathandbeyond.com](https://www.quince.com/home/bamboo-sheets?color=olive](https://www.quince.com/home/organic-brushed-cotton-sheet-set?color=dusty-olive&size=queen))) | 🟢 Available |
 
