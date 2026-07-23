@@ -15,14 +15,14 @@ If you'd prefer to contribute to our honeymoon adventures or house downpayment, 
 
 ## 🎁 Gift Registry
 
-*Note: To avoid duplicate gifts, please let us know if you purchase an item so we can mark it as "Claimed"!*
-
 | Item | Store Link | Status |
 | :--- | :--- | :--- |
 | **KitchenAid Artisan Stand Mixer (Ice Blue)** | [View on Amazon](https://amazon.com) | 🟢 Available |
 | **Calphalon 10-Piece Cookware Set** | [View on Target](https://target.com) | 🔴 Claimed |
 | **Dyson V8 Cordless Vacuum** | [View on Best Buy](https://bestbuy.com) | 🟢 Available |
 | **Organic Cotton Sheet Set (Queen, White)** | [View on Bed Bath](https://bedbathandbeyond.com) | 🟢 Available |
+
+*Note: To avoid duplicate gifts, please let us know if you purchase an item so we can mark it as "Claimed"!*
 
 ---
 
